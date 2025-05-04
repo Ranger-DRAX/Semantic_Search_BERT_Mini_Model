@@ -1,5 +1,4 @@
 
-```markdown
 # Semantic Search with BERT and Elasticsearch
 
 This project implements a **semantic search engine** using **BERT embeddings** and **Elasticsearch**. It allows users to search for products in a catalog based on the semantic meaning of their queries, rather than relying on exact keyword matches.
